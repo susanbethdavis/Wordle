@@ -21,9 +21,8 @@ This repository contains a script designed to clean Wordle data from a CSV file.
 1. **Import Libraries**: The script imports necessary libraries including pandas, csv, and datetime.
 2. **Define File Paths**: Sets the input and output file paths.
 3. **Initialize Data Structures**: Initializes data structures to store filtered data.
-4. **Read and Filter Data**: Reads the input CSV file, filters messages containing specific keywords, and retains the last message of each day.
-5. **Write Filtered Data**: Writes the filtered data to an output CSV file.
-6. **Process Data with pandas**: Loads the output CSV into a pandas DataFrame, processes the date and time components, and reorganizes the columns.
+4. **Read and Filter Data**: Reads the input CSV file, filters for messages containg a wordle scorebaord, and retains the last message of each day.
+6. **Process Data with pandas**: Processes the data 
 7. **Save Modified Data**: Saves the cleaned and processed DataFrame to a new CSV file.
 
 ### Usage
