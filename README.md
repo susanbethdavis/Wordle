@@ -9,9 +9,9 @@
 - **Text Message Data**: The text messages dataset used in this project was not provided, as it contains not only Wordle text messages but also hundreds of personal text messages. If you have inquiries about specific information from these datasets, please contact me. 
 - **List of all Wordle answers so far**: [Wordle Answers](https://wordfinder.yourdictionary.com/wordle/answers/)
 
-### Script Overview
+### tidy_wordle Script Overview
 #### Features
-- **Data Import**: The script reads in text message data from CSV files.
+- **Data Import**: The script reads in text message data from two seperate CSV files.
 - **Date Validation**: Custom functions ensure that dates are correctly formatted and valid.
 - **Message Filtering**: The code identifies the last message of each day from specific senders.
 - **Data Output**: The processed data is saved to new CSV files, summarizing the daily Wordle-related interactions.
