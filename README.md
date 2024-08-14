@@ -1,6 +1,6 @@
 ## README for Wordle Data Cleaning Script
 
-**Author**: Susan Davis, sedavis9@ncsu.edu
+**Author**: Susan Davis
 
 ### Repository Overview
 
