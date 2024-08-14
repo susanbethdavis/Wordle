@@ -16,6 +16,6 @@
 - **Message Filtering**: The code identifies the last message of each day from specific senders.
 - **Data Output**: The processed data is saved to new CSV files, summarizing the daily Wordle-related interactions.
 
-Contact
+### Contact
 For any issues or inquiries, please contact Susan Davis at sedavis9@ncsu.edu.
 
