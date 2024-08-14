@@ -4,7 +4,7 @@
 
 ### Repository Overview
 
-- **`tidy_wordle` script**:focuses on reading text message data from CSV files, then cleaning and processing this data to prepare it for a suitable state for further analyses. 
+- **`tidy_wordle` script**: focuses on reading text message data from CSV files, then cleaning and processing this data to prepare it for a suitable state for further analyses. 
 - **Wordle Dictionary**: Contains all possible words that can be the word of the day in Wordle.
 - **Text Message Data**: The text messages dataset used in this project was not provided, as it contains not only Wordle text messages but also hundreds of personal text messages. If you have inquiries about specific information from these datasets, please contact me. 
 - **List of all Wordle answers so far**: [Wordle Answers](https://wordfinder.yourdictionary.com/wordle/answers/)
