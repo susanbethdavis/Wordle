@@ -9,6 +9,7 @@
 - **Raw Text Message Data**: The text messages dataset used in this project was not provided, as it contains not only Wordle text messages but also hundreds of personal text messages. If you have inquiries about specific information from these datasets, please contact me.
 - **Cleaned Text Message Data**: named final_data, this is the data of only the wordle text messages after they have been cleaned. 
 - **List of all Wordle answers so far**: [Wordle Answers](https://wordfinder.yourdictionary.com/wordle/answers/)
+- **Final Texts Data Dictionary**: Data Dictionary for the cleaned messages dataset
 
 ### tidy_wordle Script Overview
 #### Features
