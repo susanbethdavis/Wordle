@@ -1,6 +1,7 @@
 ## README for Wordle Data Cleaning Script
 
 **Author**: Susan Davis
+
 **R Shiny Live Application**: https://susanbethdavis.shinyapps.io/Ozark/
 
 ### Repository Overview
